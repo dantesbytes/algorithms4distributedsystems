@@ -1,0 +1,164 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environment
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.class
+*.iml
+*.project
+*.classpath
+*.settings/
+*.factorypath
+bin/
+target/
+out/
+
+# Maven
+log/
+target/
+!src/main/resources/log/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Compiled class file
+*.class
+
+# Java JAR files
+*.jar
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JetBrains specific files
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/**/shelf
+
+# AWS SAM files
+.aws-sam/build/
+
+# Generated files
+coverage/
+dist/
+build/
+target/
+out/
+reports/
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Sonarlint
+.sonarlint/
+
+# Run configurations
+.idea/runConfigurations/
+
+# Code styles
+.idea/codeStyles/
+
+# At least ignore the following directories in all projects
+# helps to reduce the number of untracked files
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/assetWizardSettings.xml
+.idea/markdown-navigator.xml
+.idea/kotlinc.xml
+.idea/macros.xml
+.idea/jarRepositories.xml
+
+# Eclipse
+.project
+.settings/
+.metadata/
+bin/
+.tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.local/
+
+# Temp Files #
+tmp/
+temp/
+
+# npm debug log
+npm-debug.log*
+
+# Yarn debug log
+yarn-debug.log*
+yarn-error.log*
